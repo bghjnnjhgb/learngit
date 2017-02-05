@@ -1,4 +1,4 @@
-package com.mynewmain;
+package com.mynewmain1111;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -6,7 +6,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.os.Message;
+import android.os.Message1111;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
